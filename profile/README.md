@@ -1,5 +1,4 @@
-# Welcome to nodenogg.in
-
+# Welcome to The Strange Tool Store
 This is the first version for the organisaton page.
 
-## making sense of large messy problems together
+## Fixing Education Technology
