@@ -1,6 +1,6 @@
 # Welcome to The Strange Tool Store <noscript><a href="https://liberapay.com/thestrangetoolstore/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
-Pedagogy focussed education technology that’s small, local-first, decentralised and private.
+Pedagogy-focused edtech: small, local, and private.
 
 The Strange Tool Store is a co-operative who craft and curate strange tools.
 
